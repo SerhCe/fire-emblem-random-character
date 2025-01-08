@@ -1,0 +1,7314 @@
+[
+  {
+    "id": 1,
+    "CharId": "Lucina",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 2,
+    "CharId": "Tharja",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 3,
+    "CharId": "Chrom",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 4,
+    "CharId": "Cordelia",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 5,
+    "CharId": "Robin (M)",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 6,
+    "CharId": "Henry",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 7,
+    "CharId": "Nowi",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 8,
+    "CharId": "Donnel",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 9,
+    "CharId": "Robin (F)",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 10,
+    "CharId": "Lon'qu",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 11,
+    "CharId": "Tiki",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 12,
+    "CharId": "Gaius",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 13,
+    "CharId": "Anna",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 14,
+    "CharId": "Owain",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 15,
+    "CharId": "Morgan (F)",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 16,
+    "CharId": "Severa",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 17,
+    "CharId": "Olivia",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 18,
+    "CharId": "Masked Marth",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 1
+  },
+  {
+    "id": 19,
+    "CharId": "Lissa",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 20,
+    "CharId": "Inigo",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 21,
+    "CharId": "Cherche",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 22,
+    "CharId": "Frederick",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 23,
+    "CharId": "Maribelle",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 24,
+    "CharId": "Panne",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 25,
+    "CharId": "Sumia",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 26,
+    "CharId": "Noire",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 27,
+    "CharId": "Stahl",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 28,
+    "CharId": "Aversa",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 29,
+    "CharId": "Grima",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 1
+  },
+  {
+    "id": 30,
+    "CharId": "Morgan (M)",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 31,
+    "CharId": "Kellam",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 32,
+    "CharId": "Cynthia",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 33,
+    "CharId": "Nah",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 34,
+    "CharId": "Sully",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 35,
+    "CharId": "Gerome",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 36,
+    "CharId": "Say'ri",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 37,
+    "CharId": "Libra",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 38,
+    "CharId": "Priam",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 39,
+    "CharId": "Virion",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 40,
+    "CharId": "Gregor",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 41,
+    "CharId": "Miriel",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 42,
+    "CharId": "Yarne",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 43,
+    "CharId": "Emmeryn",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 44,
+    "CharId": "Ricken",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 45,
+    "CharId": "Naga",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 46,
+    "CharId": "Gangrel",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 47,
+    "CharId": "Vaike",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 48,
+    "CharId": "Walhart",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 49,
+    "CharId": "Brady",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 50,
+    "CharId": "Flavia",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 51,
+    "CharId": "Mustafa",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 52,
+    "CharId": "Basilio",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 53,
+    "CharId": "Cervantes",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 54,
+    "CharId": "Kjelle",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 55,
+    "CharId": "Laurent",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 56,
+    "CharId": "Yen'fay",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 57,
+    "CharId": "Validar",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 58,
+    "CharId": "Excellus",
+    "GameId": 13,
+    "Game": "Awakening",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 59,
+    "CharId": "Camilla",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 60,
+    "CharId": "Corrin (F)",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 61,
+    "CharId": "Azura",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 62,
+    "CharId": "Takumi",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 63,
+    "CharId": "Leo",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 64,
+    "CharId": "Felicia",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 65,
+    "CharId": "Elise",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 66,
+    "CharId": "Niles",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 67,
+    "CharId": "Sakura",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 68,
+    "CharId": "Corrin (M)",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 69,
+    "CharId": "Xander",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 70,
+    "CharId": "Ryoma",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 71,
+    "CharId": "Hinoka",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 72,
+    "CharId": "Anna",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 73,
+    "CharId": "Selkie",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 74,
+    "CharId": "Oboro",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 75,
+    "CharId": "Selena",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 76,
+    "CharId": "Jakob",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 77,
+    "CharId": "Soleil",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 78,
+    "CharId": "Laslow",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 79,
+    "CharId": "Kaze",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 80,
+    "CharId": "Charlotte",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 81,
+    "CharId": "Peri",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 82,
+    "CharId": "Kaden",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 83,
+    "CharId": "Keaton",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 84,
+    "CharId": "Ophelia",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 85,
+    "CharId": "Hana",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 86,
+    "CharId": "Velouria",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 87,
+    "CharId": "Setsuna",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 88,
+    "CharId": "Kagero",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 89,
+    "CharId": "Odin",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 90,
+    "CharId": "Caeldori",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 91,
+    "CharId": "Rinkah",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 92,
+    "CharId": "Flora",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 93,
+    "CharId": "Kana (F)",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 94,
+    "CharId": "Silas",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 95,
+    "CharId": "Rhajat",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 96,
+    "CharId": "Nyx",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 97,
+    "CharId": "Beruka",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 98,
+    "CharId": "Forrest",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 99,
+    "CharId": "Lilith",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 100,
+    "CharId": "Saizo",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 101,
+    "CharId": "Dwyer",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 102,
+    "CharId": "Mozu",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 103,
+    "CharId": "Effie",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 104,
+    "CharId": "Scarlet",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 105,
+    "CharId": "Nina",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 106,
+    "CharId": "Subaki",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 107,
+    "CharId": "Arthur",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 108,
+    "CharId": "Orochi",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 109,
+    "CharId": "Shigure",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 110,
+    "CharId": "Hinata",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 111,
+    "CharId": "Kana (M)",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 112,
+    "CharId": "Midori",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 113,
+    "CharId": "Anankos",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 114,
+    "CharId": "Shura",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 115,
+    "CharId": "Mikoto",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 116,
+    "CharId": "Azama",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 117,
+    "CharId": "Layla",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 118,
+    "CharId": "Benny",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 119,
+    "CharId": "Mitama",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 120,
+    "CharId": "Shiro",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 121,
+    "CharId": "Reina",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 122,
+    "CharId": "Sophie",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 123,
+    "CharId": "Kiragi",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 124,
+    "CharId": "Asugi",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 125,
+    "CharId": "Gunter",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 126,
+    "CharId": "Izana",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 127,
+    "CharId": "Garon",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 128,
+    "CharId": "Hayato",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 129,
+    "CharId": "Arete",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 130,
+    "CharId": "Sumeragi",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 131,
+    "CharId": "Iago",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 132,
+    "CharId": "Siegbert",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 133,
+    "CharId": "Rainbow Sage",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 134,
+    "CharId": "Candace",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 135,
+    "CharId": "Hisame",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 136,
+    "CharId": "Zola",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 137,
+    "CharId": "Percy",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 138,
+    "CharId": "Yukimura",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 139,
+    "CharId": "Hans",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 140,
+    "CharId": "Nichol",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 141,
+    "CharId": "Fuga",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 142,
+    "CharId": "Ignatius",
+    "GameId": 14,
+    "Game": "Fates",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 143,
+    "CharId": "Celica",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 144,
+    "CharId": "Alm",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 145,
+    "CharId": "Delthea",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 146,
+    "CharId": "Mathilda",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 147,
+    "CharId": "Valbar",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 148,
+    "CharId": "Zeke",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 149,
+    "CharId": "Kliff",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 150,
+    "CharId": "Catria",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 151,
+    "CharId": "Silque",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 152,
+    "CharId": "Sonya",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 153,
+    "CharId": "Saber",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 154,
+    "CharId": "Kamui",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 155,
+    "CharId": "Lukas",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 156,
+    "CharId": "Boey",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 157,
+    "CharId": "Genny",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 158,
+    "CharId": "Mae",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 159,
+    "CharId": "Clair",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 160,
+    "CharId": "Gray",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 161,
+    "CharId": "Luthier",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 162,
+    "CharId": "Est",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 163,
+    "CharId": "Tobin",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 164,
+    "CharId": "Palla",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 165,
+    "CharId": "Nomah",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 166,
+    "CharId": "Rudolf",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 167,
+    "CharId": "Python",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 168,
+    "CharId": "Mycen",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 169,
+    "CharId": "Clive",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 170,
+    "CharId": "Atlas",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 171,
+    "CharId": "Deen",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 172,
+    "CharId": "Tatiana",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 173,
+    "CharId": "Desaix",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 174,
+    "CharId": "Forsyth",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 175,
+    "CharId": "Leon",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 176,
+    "CharId": "Jesse",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 177,
+    "CharId": "Grieth",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 792,
+    "CharId": "Faye",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 793,
+    "CharId": "Conrad",
+    "GameId": 2,
+    "Game": "Gaiden / Echoes: Shadows of Valentia",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 178,
+    "CharId": "Sigurd",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 179,
+    "CharId": "Ayra",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 180,
+    "CharId": "Arden",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 181,
+    "CharId": "Seliph",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 182,
+    "CharId": "Eldigan",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 183,
+    "CharId": "Ishtar",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 184,
+    "CharId": "Larcei",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 185,
+    "CharId": "Lewyn",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 186,
+    "CharId": "Finn",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 187,
+    "CharId": "Lachesis",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 188,
+    "CharId": "Arvis",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 189,
+    "CharId": "Finn (2)",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 190,
+    "CharId": "Ced",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 191,
+    "CharId": "Quan",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 192,
+    "CharId": "Leif",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 193,
+    "CharId": "Arthur",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 194,
+    "CharId": "Tailtiu",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 195,
+    "CharId": "Julia",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 196,
+    "CharId": "Ares",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 197,
+    "CharId": "Erinys",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 198,
+    "CharId": "Azelle",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 199,
+    "CharId": "Shannan",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 200,
+    "CharId": "Deirdre",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 201,
+    "CharId": "Tine",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 202,
+    "CharId": "Ethlyn",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 203,
+    "CharId": "Patty",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 204,
+    "CharId": "Ulster",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 205,
+    "CharId": "Lex",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 206,
+    "CharId": "Julius",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 207,
+    "CharId": "Dew",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 208,
+    "CharId": "Altena",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 209,
+    "CharId": "Naoise",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 210,
+    "CharId": "Chulainn",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 211,
+    "CharId": "Jamke",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 212,
+    "CharId": "Travant",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 213,
+    "CharId": "Fee",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 214,
+    "CharId": "Febail",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 215,
+    "CharId": "Silvia",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 216,
+    "CharId": "Lana",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 217,
+    "CharId": "Nanna",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 218,
+    "CharId": "Midir",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 219,
+    "CharId": "Oifey",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 220,
+    "CharId": "Brigid",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 221,
+    "CharId": "Lene",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 222,
+    "CharId": "Alec",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 223,
+    "CharId": "Beowolf",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 224,
+    "CharId": "Muirne",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 225,
+    "CharId": "Annand",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 226,
+    "CharId": "Reptor",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 227,
+    "CharId": "Diarmuid",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 228,
+    "CharId": "Hannibal",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 229,
+    "CharId": "Arion",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 230,
+    "CharId": "Daisy",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 231,
+    "CharId": "Andrey",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 232,
+    "CharId": "Iucharba",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 233,
+    "CharId": "Iuchar",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 234,
+    "CharId": "Aida",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 235,
+    "CharId": "Hawk",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 236,
+    "CharId": "Linda",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 237,
+    "CharId": "Lombard",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 238,
+    "CharId": "Laylea",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 239,
+    "CharId": "Manfroy",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 240,
+    "CharId": "Creidne",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 241,
+    "CharId": "Sandima",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 242,
+    "CharId": "Ishtore",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 243,
+    "CharId": "Kutuzov",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 244,
+    "CharId": "Jeanne",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 245,
+    "CharId": "Tristan",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 246,
+    "CharId": "Byron",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 247,
+    "CharId": "Munnir",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 248,
+    "CharId": "Edain",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 249,
+    "CharId": "Claud",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 250,
+    "CharId": "Brian",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 251,
+    "CharId": "Asaello",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 252,
+    "CharId": "Amid",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 253,
+    "CharId": "Coirpre",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 254,
+    "CharId": "Chagall",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 255,
+    "CharId": "Dalvin",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 256,
+    "CharId": "Hermina",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 257,
+    "CharId": "Hilda",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 258,
+    "CharId": "Lester",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 259,
+    "CharId": "Charlot",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 260,
+    "CharId": "Scipio",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 261,
+    "CharId": "Deimne",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 262,
+    "CharId": "Cimbaeth",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 263,
+    "CharId": "Danann",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 264,
+    "CharId": "Bloom",
+    "GameId": 4,
+    "Game": "Genealogy of the Holy War",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 265,
+    "CharId": "Marth",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 266,
+    "CharId": "Tiki",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 267,
+    "CharId": "Katarina",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 268,
+    "CharId": "Caeda",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 269,
+    "CharId": "Catria",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 270,
+    "CharId": "Ogma",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 271,
+    "CharId": "Navarre",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 272,
+    "CharId": "Minerva",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 273,
+    "CharId": "Merric",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 274,
+    "CharId": "Jeorge",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 275,
+    "CharId": "Sirius",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 276,
+    "CharId": "Kris (M)",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 277,
+    "CharId": "Palla",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 278,
+    "CharId": "Linde",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 279,
+    "CharId": "Sheena",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 280,
+    "CharId": "Cain",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 281,
+    "CharId": "Gordin",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 282,
+    "CharId": "Camus",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 283,
+    "CharId": "Malice",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 284,
+    "CharId": "Kris (F)",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 285,
+    "CharId": "Xane",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 286,
+    "CharId": "Clarisse",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 287,
+    "CharId": "Wrys",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 288,
+    "CharId": "Anna",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 289,
+    "CharId": "Vyland",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 290,
+    "CharId": "Arlen",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 291,
+    "CharId": "Michalis",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 292,
+    "CharId": "Norne",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 293,
+    "CharId": "Hardin",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 294,
+    "CharId": "Athena",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 295,
+    "CharId": "Draug",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 296,
+    "CharId": "Legion",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 297,
+    "CharId": "Etzel",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 298,
+    "CharId": "Nagi",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 299,
+    "CharId": "Julian",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 300,
+    "CharId": "Phina",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 301,
+    "CharId": "Wolf",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 302,
+    "CharId": "Cecil",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 303,
+    "CharId": "Jagen",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 304,
+    "CharId": "Abel",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 305,
+    "CharId": "Yuliya",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 306,
+    "CharId": "Barst",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 307,
+    "CharId": "Samuel",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 308,
+    "CharId": "Ryan",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 309,
+    "CharId": "Castor",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 310,
+    "CharId": "Jubelo",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 311,
+    "CharId": "Maria",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 312,
+    "CharId": "Elice",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 313,
+    "CharId": "Sedgar",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 314,
+    "CharId": "Eremiya",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 315,
+    "CharId": "Lena",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 316,
+    "CharId": "Nyna",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 317,
+    "CharId": "Marisha",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 318,
+    "CharId": "Caesar",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 319,
+    "CharId": "Lorenz",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 320,
+    "CharId": "Astram",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 321,
+    "CharId": "Lang",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 322,
+    "CharId": "Bord",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 323,
+    "CharId": "Roshea",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 324,
+    "CharId": "Est",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 325,
+    "CharId": "Dice",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 326,
+    "CharId": "Bantu",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 327,
+    "CharId": "Luke",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 328,
+    "CharId": "Arran",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 329,
+    "CharId": "Matthis",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 330,
+    "CharId": "Roderick",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 331,
+    "CharId": "Radd",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 332,
+    "CharId": "Cord",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 333,
+    "CharId": "Gharnef",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 334,
+    "CharId": "Horace",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 335,
+    "CharId": "Belf",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 336,
+    "CharId": "Medeus",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 337,
+    "CharId": "Midia",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 338,
+    "CharId": "Samson",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 339,
+    "CharId": "Tomas",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 340,
+    "CharId": "Wendell",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 341,
+    "CharId": "Frey",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 342,
+    "CharId": "Roberto",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 343,
+    "CharId": "Jake",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 344,
+    "CharId": "Warren",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 345,
+    "CharId": "Reiden",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 346,
+    "CharId": "Rickard",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 347,
+    "CharId": "Gotoh",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 348,
+    "CharId": "Dolph",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 349,
+    "CharId": "Boah",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 350,
+    "CharId": "Frost",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 351,
+    "CharId": "Darros",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 352,
+    "CharId": "Ymir",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 353,
+    "CharId": "Beck",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 354,
+    "CharId": "Roger",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 355,
+    "CharId": "Macellan",
+    "GameId": 3,
+    "Game": "Mystery of the Emblem / New Mystery of the Emblem",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 356,
+    "CharId": "Ike",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 357,
+    "CharId": "Nephenee",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 358,
+    "CharId": "Soren",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 359,
+    "CharId": "Black Knight",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 360,
+    "CharId": "Mia",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 361,
+    "CharId": "Titania",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 362,
+    "CharId": "Ilyana",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 363,
+    "CharId": "Lethe",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 364,
+    "CharId": "Mist",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 365,
+    "CharId": "Ranulf",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 366,
+    "CharId": "Jill",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 367,
+    "CharId": "Shinon",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 368,
+    "CharId": "Haar",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 369,
+    "CharId": "Elincia",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 370,
+    "CharId": "Tibarn",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 371,
+    "CharId": "Marcia",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 372,
+    "CharId": "Greil",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 373,
+    "CharId": "Astrid",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 374,
+    "CharId": "Oscar",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 375,
+    "CharId": "Leanne",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 376,
+    "CharId": "Mordecai",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 377,
+    "CharId": "Boyd",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 378,
+    "CharId": "Zihark",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 379,
+    "CharId": "Stefan",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 380,
+    "CharId": "Naesala",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 381,
+    "CharId": "Sanaki",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 382,
+    "CharId": "Reyson",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 383,
+    "CharId": "Volke",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 384,
+    "CharId": "Lucia",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 385,
+    "CharId": "Rolf",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 386,
+    "CharId": "Rhys",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 387,
+    "CharId": "Sothe",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 388,
+    "CharId": "Ashnard",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 389,
+    "CharId": "Kieran",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 390,
+    "CharId": "Tormod",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 391,
+    "CharId": "Caineghis",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 392,
+    "CharId": "Petrine",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 393,
+    "CharId": "Janaff",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 394,
+    "CharId": "Muarim",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 395,
+    "CharId": "Zelgius",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 396,
+    "CharId": "Gatrie",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 397,
+    "CharId": "Sigrun",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 398,
+    "CharId": "Elena",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 399,
+    "CharId": "Brom",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 400,
+    "CharId": "Tanith",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 401,
+    "CharId": "Devdan",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 402,
+    "CharId": "Geoffrey",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 403,
+    "CharId": "Largo",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 404,
+    "CharId": "Ena",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 405,
+    "CharId": "Calill",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 406,
+    "CharId": "Makalov",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 407,
+    "CharId": "Nasir",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 408,
+    "CharId": "Ulki",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 409,
+    "CharId": "Kurthnaga",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 410,
+    "CharId": "Bertram",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 411,
+    "CharId": "Giffca",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 412,
+    "CharId": "Tauroneo",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 413,
+    "CharId": "Bastian",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 414,
+    "CharId": "Sephiran",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 415,
+    "CharId": "Gareth",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 416,
+    "CharId": "Renning",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 417,
+    "CharId": "Dheginsea",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 418,
+    "CharId": "Nealuchi",
+    "GameId": 9,
+    "Game": "Path of Radiance",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 419,
+    "CharId": "Ike",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 420,
+    "CharId": "Micaiah",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 421,
+    "CharId": "Mia",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 422,
+    "CharId": "Nephenee",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 423,
+    "CharId": "Black Knight",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 424,
+    "CharId": "Soren",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 425,
+    "CharId": "Sothe",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 426,
+    "CharId": "Haar",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 427,
+    "CharId": "Elincia",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 428,
+    "CharId": "Tibarn",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 429,
+    "CharId": "Ilyana",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 430,
+    "CharId": "Ranulf",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 431,
+    "CharId": "Shinon",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 432,
+    "CharId": "Edward",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 433,
+    "CharId": "Jill",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 434,
+    "CharId": "Mist",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 435,
+    "CharId": "Sanaki",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 436,
+    "CharId": "Nailah",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 437,
+    "CharId": "Zelgius",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 438,
+    "CharId": "Titania",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 439,
+    "CharId": "Volke",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 440,
+    "CharId": "Naesala",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 441,
+    "CharId": "Zihark",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 442,
+    "CharId": "Oliver",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 443,
+    "CharId": "Lucia",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 444,
+    "CharId": "Volug",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 445,
+    "CharId": "Lethe",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 446,
+    "CharId": "Leanne",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 447,
+    "CharId": "Vika",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 448,
+    "CharId": "Stefan",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 449,
+    "CharId": "Tormod",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 450,
+    "CharId": "Aran",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 451,
+    "CharId": "Caineghis",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 452,
+    "CharId": "Pelleas",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 453,
+    "CharId": "Heather",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 454,
+    "CharId": "Boyd",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 455,
+    "CharId": "Anna",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 456,
+    "CharId": "Marcia",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 457,
+    "CharId": "Meg",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 458,
+    "CharId": "Reyson",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 459,
+    "CharId": "Lyre",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 460,
+    "CharId": "Rolf",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 461,
+    "CharId": "Yune",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 462,
+    "CharId": "Geoffrey",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 463,
+    "CharId": "Leonardo",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 464,
+    "CharId": "Sephiran",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 465,
+    "CharId": "Amy",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 466,
+    "CharId": "Sigrun",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 467,
+    "CharId": "Astrid",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 468,
+    "CharId": "Ashera",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 469,
+    "CharId": "Oscar",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 470,
+    "CharId": "Laura",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 471,
+    "CharId": "Nolan",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 472,
+    "CharId": "Gatrie",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 473,
+    "CharId": "Muarim",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 474,
+    "CharId": "Rhys",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 475,
+    "CharId": "Mordecai",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 476,
+    "CharId": "Kurthnaga",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 477,
+    "CharId": "Kieran",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 478,
+    "CharId": "Skrimir",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 479,
+    "CharId": "Brom",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 480,
+    "CharId": "Ashunera",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 481,
+    "CharId": "Fiona",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 482,
+    "CharId": "Janaff",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 483,
+    "CharId": "Dheginsea",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 484,
+    "CharId": "Rafiel",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 485,
+    "CharId": "Jarod",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 486,
+    "CharId": "Kyza",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 487,
+    "CharId": "Danved",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 488,
+    "CharId": "Tauroneo",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 489,
+    "CharId": "Tanith",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 490,
+    "CharId": "Calill",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 491,
+    "CharId": "Gareth",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 492,
+    "CharId": "Aimee",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 493,
+    "CharId": "Ulki",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 494,
+    "CharId": "Bastian",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 495,
+    "CharId": "Ena",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 496,
+    "CharId": "Almedha",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 497,
+    "CharId": "Nasir",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 498,
+    "CharId": "Giffca",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 499,
+    "CharId": "Makalov",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 500,
+    "CharId": "Renning",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 501,
+    "CharId": "Valtome",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 502,
+    "CharId": "Nealuchi",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 503,
+    "CharId": "Largo",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 504,
+    "CharId": "Muston",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 505,
+    "CharId": "Jorge",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 506,
+    "CharId": "Izuka",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 507,
+    "CharId": "Hetzel",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 508,
+    "CharId": "Daniel",
+    "GameId": 10,
+    "Game": "Radiant Dawn",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 509,
+    "CharId": "Marth",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 510,
+    "CharId": "Caeda",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 511,
+    "CharId": "Tiki",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 512,
+    "CharId": "Minerva",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 513,
+    "CharId": "Navarre",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 514,
+    "CharId": "Wrys",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 515,
+    "CharId": "Ogma",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 516,
+    "CharId": "Merric",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 517,
+    "CharId": "Catria",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 518,
+    "CharId": "Linde",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 519,
+    "CharId": "Camus",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 520,
+    "CharId": "Cain",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 521,
+    "CharId": "Anna",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 522,
+    "CharId": "Abel",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 523,
+    "CharId": "Jagen",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 524,
+    "CharId": "Wolf",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 525,
+    "CharId": "Athena",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 526,
+    "CharId": "Xane",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 527,
+    "CharId": "Barst",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 528,
+    "CharId": "Draug",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 529,
+    "CharId": "Nagi",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 530,
+    "CharId": "Gordin",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 531,
+    "CharId": "Palla",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 532,
+    "CharId": "Julian",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 533,
+    "CharId": "Etzel",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 534,
+    "CharId": "Vyland",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 535,
+    "CharId": "Jeorge",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 536,
+    "CharId": "Elice",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 537,
+    "CharId": "Lena",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 538,
+    "CharId": "Norne",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 539,
+    "CharId": "Michalis",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 540,
+    "CharId": "Hardin",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 541,
+    "CharId": "Nyna",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 542,
+    "CharId": "Lorenz",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 543,
+    "CharId": "Gharnef",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 544,
+    "CharId": "Maria",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 545,
+    "CharId": "Bantu",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 546,
+    "CharId": "Radd",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 547,
+    "CharId": "Castor",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 548,
+    "CharId": "Est",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 549,
+    "CharId": "Sedgar",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 550,
+    "CharId": "Frey",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 551,
+    "CharId": "Bord",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 552,
+    "CharId": "Wendell",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 553,
+    "CharId": "Cord",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 554,
+    "CharId": "Jake",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 555,
+    "CharId": "Roshea",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 556,
+    "CharId": "Matthis",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 557,
+    "CharId": "Astram",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 558,
+    "CharId": "Horace",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 559,
+    "CharId": "Arran",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 560,
+    "CharId": "Caesar",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 561,
+    "CharId": "Darros",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 562,
+    "CharId": "Ymir",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 563,
+    "CharId": "Medeus",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 564,
+    "CharId": "Samson",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 565,
+    "CharId": "Midia",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 566,
+    "CharId": "Beck",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 567,
+    "CharId": "Gotoh",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 568,
+    "CharId": "Boah",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 569,
+    "CharId": "Dolph",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 570,
+    "CharId": "Tomas",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 571,
+    "CharId": "Macellan",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 572,
+    "CharId": "Roger",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 573,
+    "CharId": "Rickard",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 574,
+    "CharId": "Malledus",
+    "GameId": 1,
+    "Game": "Shadow Dragon and the Blade of Light / Shadow Dragon",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 575,
+    "CharId": "Roy",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 576,
+    "CharId": "Lilina",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 577,
+    "CharId": "Lot",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 578,
+    "CharId": "Sophia",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 579,
+    "CharId": "Rutger",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 580,
+    "CharId": "Fir",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 581,
+    "CharId": "Shanna",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 582,
+    "CharId": "Fae",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 583,
+    "CharId": "Dieck",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 584,
+    "CharId": "Lugh",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 585,
+    "CharId": "Narcian",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 586,
+    "CharId": "Clarine",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 587,
+    "CharId": "Cecilia",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 588,
+    "CharId": "Idunn",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 589,
+    "CharId": "Wolt",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 590,
+    "CharId": "Raigh",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 591,
+    "CharId": "Hector",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 592,
+    "CharId": "Zephiel",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 593,
+    "CharId": "Gonzalez",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 594,
+    "CharId": "Thite",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 595,
+    "CharId": "Perceval",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 596,
+    "CharId": "Echidna",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 597,
+    "CharId": "Gwendolyn",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 598,
+    "CharId": "Sue",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 599,
+    "CharId": "Melady",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 600,
+    "CharId": "Hugh",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 601,
+    "CharId": "Chad",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 602,
+    "CharId": "Noah",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 603,
+    "CharId": "Igrene",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 604,
+    "CharId": "Merlinus",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 605,
+    "CharId": "Eliwood",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 606,
+    "CharId": "Zeiss",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 607,
+    "CharId": "Lance",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 608,
+    "CharId": "Cath",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 609,
+    "CharId": "Saul",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 610,
+    "CharId": "Alen",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 611,
+    "CharId": "Brunnya",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 612,
+    "CharId": "Galle",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 613,
+    "CharId": "Dorothy",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 614,
+    "CharId": "Karel",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 615,
+    "CharId": "Geese",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 616,
+    "CharId": "Klein",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 617,
+    "CharId": "Sin",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 618,
+    "CharId": "Marcus",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 619,
+    "CharId": "Ogier",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 620,
+    "CharId": "Guinivere",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 621,
+    "CharId": "Bors",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 622,
+    "CharId": "Trec",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 623,
+    "CharId": "Niime",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 624,
+    "CharId": "Elen",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 625,
+    "CharId": "Bartre",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 626,
+    "CharId": "Douglas",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 627,
+    "CharId": "Larum",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 628,
+    "CharId": "Murdock",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 629,
+    "CharId": "Barthe",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 630,
+    "CharId": "Juno",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 631,
+    "CharId": "Elffin",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 632,
+    "CharId": "Wade",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 633,
+    "CharId": "Astolfo",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 634,
+    "CharId": "Jahn",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 635,
+    "CharId": "Zelot",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 636,
+    "CharId": "Garret",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 637,
+    "CharId": "Yoder",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 638,
+    "CharId": "Dayan",
+    "GameId": 6,
+    "Game": "The Binding Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 639,
+    "CharId": "Lyn",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 640,
+    "CharId": "Hector",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 641,
+    "CharId": "Dorcas",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 642,
+    "CharId": "Eliwood",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 643,
+    "CharId": "Nino",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 644,
+    "CharId": "Florina",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 645,
+    "CharId": "Jaffar",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 646,
+    "CharId": "Matthew",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 647,
+    "CharId": "Ninian",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 648,
+    "CharId": "Canas",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 649,
+    "CharId": "Rebecca",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 650,
+    "CharId": "Raven",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 651,
+    "CharId": "Lucius",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 652,
+    "CharId": "Serra",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 653,
+    "CharId": "Sain",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 654,
+    "CharId": "Erk",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 655,
+    "CharId": "Guy",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 656,
+    "CharId": "Lloyd",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 657,
+    "CharId": "Rath",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 658,
+    "CharId": "Ursula",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 659,
+    "CharId": "Priscilla",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 660,
+    "CharId": "Pent",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 661,
+    "CharId": "Fiora",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 662,
+    "CharId": "Legault",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 663,
+    "CharId": "Leila",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 664,
+    "CharId": "Wil",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 665,
+    "CharId": "Kent",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 666,
+    "CharId": "Heath",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 667,
+    "CharId": "Karel",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 668,
+    "CharId": "Nils",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 669,
+    "CharId": "Farina",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 670,
+    "CharId": "Limstella",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 1
+  },
+  {
+    "id": 671,
+    "CharId": "Sonia",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 672,
+    "CharId": "Louise",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 673,
+    "CharId": "Karla",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 674,
+    "CharId": "Oswin",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 675,
+    "CharId": "Athos",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 676,
+    "CharId": "Merlinus",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 677,
+    "CharId": "Dart",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 678,
+    "CharId": "Hawkeye",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 679,
+    "CharId": "Wallace",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 680,
+    "CharId": "Marcus",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 681,
+    "CharId": "Guinivere",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 682,
+    "CharId": "Lowen",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 683,
+    "CharId": "Ephidel",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 684,
+    "CharId": "Harken",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 685,
+    "CharId": "Linus",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 686,
+    "CharId": "Isadora",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 687,
+    "CharId": "Nergal",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 688,
+    "CharId": "Bartre",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 689,
+    "CharId": "Geitz",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 690,
+    "CharId": "Renault",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 691,
+    "CharId": "Vaida",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 692,
+    "CharId": "Zephiel",
+    "GameId": 7,
+    "Game": "The Blazing Blade",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 693,
+    "CharId": "Eirika",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 694,
+    "CharId": "Ephraim",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 695,
+    "CharId": "Lute",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 696,
+    "CharId": "Joshua",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 697,
+    "CharId": "Marisa",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 698,
+    "CharId": "Seth",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 699,
+    "CharId": "Amelia",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 700,
+    "CharId": "Tana",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 701,
+    "CharId": "Lyon",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 702,
+    "CharId": "L'Arachel",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 703,
+    "CharId": "Myrrh",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 704,
+    "CharId": "Ross",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 705,
+    "CharId": "Innes",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 706,
+    "CharId": "Gerik",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 707,
+    "CharId": "Cormag",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 708,
+    "CharId": "Colm",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 709,
+    "CharId": "Gilliam",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 710,
+    "CharId": "Garcia",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 711,
+    "CharId": "Neimi",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 712,
+    "CharId": "Knoll",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 713,
+    "CharId": "Ewan",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 714,
+    "CharId": "Vanessa",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 715,
+    "CharId": "Artur",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 716,
+    "CharId": "Moulder",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 717,
+    "CharId": "Valter",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 718,
+    "CharId": "Selena",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 719,
+    "CharId": "Franz",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 720,
+    "CharId": "Forde",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 721,
+    "CharId": "Tethys",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 722,
+    "CharId": "Natasha",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 723,
+    "CharId": "Duessel",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 724,
+    "CharId": "Dozla",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 725,
+    "CharId": "Ismaire",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 726,
+    "CharId": "Saleh",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 727,
+    "CharId": "Kyle",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 728,
+    "CharId": "Orson",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 729,
+    "CharId": "Glen",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 730,
+    "CharId": "Syrene",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 731,
+    "CharId": "Rennac",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 732,
+    "CharId": "Caellach",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 733,
+    "CharId": "Fado",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 734,
+    "CharId": "Riev",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 735,
+    "CharId": "Hayden",
+    "GameId": 8,
+    "Game": "The Sacred Stones",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 736,
+    "CharId": "Leif",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 737,
+    "CharId": "Finn",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 738,
+    "CharId": "Olwen",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 739,
+    "CharId": "Mareeta",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 740,
+    "CharId": "Marty",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 741,
+    "CharId": "Nanna",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 742,
+    "CharId": "Ced",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 743,
+    "CharId": "Sara",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 744,
+    "CharId": "Asbel",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 745,
+    "CharId": "Machyua",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 746,
+    "CharId": "Osian",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 747,
+    "CharId": "Miranda",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 748,
+    "CharId": "Lara",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 749,
+    "CharId": "Carrion",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 750,
+    "CharId": "Linoan",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 751,
+    "CharId": "Lifis",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 752,
+    "CharId": "Karin",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 753,
+    "CharId": "Misha",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 754,
+    "CharId": "Eyvel",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 755,
+    "CharId": "Kempf",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 756,
+    "CharId": "Shiva",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 757,
+    "CharId": "Saias",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 758,
+    "CharId": "Galzus",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 759,
+    "CharId": "Tanya",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 760,
+    "CharId": "Reinhardt",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 761,
+    "CharId": "Ronan",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 762,
+    "CharId": "Salem",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 763,
+    "CharId": "Eda",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 764,
+    "CharId": "Ilios",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 765,
+    "CharId": "Halvan",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 766,
+    "CharId": "Dagdar",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 767,
+    "CharId": "Fergus",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 768,
+    "CharId": "Tina",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 769,
+    "CharId": "Homer",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 770,
+    "CharId": "Shannam",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 771,
+    "CharId": "Perne",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 772,
+    "CharId": "Brighton",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 773,
+    "CharId": "Amalda",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 774,
+    "CharId": "Selphina",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 775,
+    "CharId": "Alva",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 776,
+    "CharId": "Deen",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 777,
+    "CharId": "Xavier",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 778,
+    "CharId": "Cain",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 779,
+    "CharId": "Ralf",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 780,
+    "CharId": "Raydrik",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 781,
+    "CharId": "Robert",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 782,
+    "CharId": "Veld",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 783,
+    "CharId": "Safy",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 784,
+    "CharId": "Diarmuid",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 785,
+    "CharId": "Hicks",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 786,
+    "CharId": "Dalsin",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 787,
+    "CharId": "Fred",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 788,
+    "CharId": "Troude",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 789,
+    "CharId": "Sleuf",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 790,
+    "CharId": "Conomor",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 791,
+    "CharId": "Glade",
+    "GameId": 5,
+    "Game": "Thracia 776",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 792,
+    "CharId": "Byleth (M)",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 793,
+    "CharId": "Byleth (F)",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 794,
+    "CharId": "Edelgard",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 795,
+    "CharId": "Dimitri",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 796,
+    "CharId": "Claude",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 797,
+    "CharId": "Hubert",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 798,
+    "CharId": "Ferdinand",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 799,
+    "CharId": "Linhardt",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 800,
+    "CharId": "Caspar",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 801,
+    "CharId": "Dedue",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 802,
+    "CharId": "Felix",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 803,
+    "CharId": "Ashe",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 804,
+    "CharId": "Sylvain",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 805,
+    "CharId": "Lorenz",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 806,
+    "CharId": "Raphael",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 807,
+    "CharId": "Ignatz",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 808,
+    "CharId": "Bernadetta",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 809,
+    "CharId": "Dorothea",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 810,
+    "CharId": "Petra",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 811,
+    "CharId": "Mercedes",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 812,
+    "CharId": "Annette",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 813,
+    "CharId": "Ingrid",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 814,
+    "CharId": "Lysithea",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 815,
+    "CharId": "Marianne",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 816,
+    "CharId": "Hilda",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 817,
+    "CharId": "Leonie",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 818,
+    "CharId": "Seteth",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 819,
+    "CharId": "Hanneman",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 820,
+    "CharId": "Gilbert",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 821,
+    "CharId": "Alois",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 822,
+    "CharId": "Cyril",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 823,
+    "CharId": "Flayn",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 824,
+    "CharId": "Manuela",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 825,
+    "CharId": "Catherine",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 826,
+    "CharId": "Shamir",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 827,
+    "CharId": "Anna",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 828,
+    "CharId": "Jeritza",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 829,
+    "CharId": "Aelfric",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 830,
+    "CharId": "Yuri",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 831,
+    "CharId": "Balthus",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 832,
+    "CharId": "Constance",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 833,
+    "CharId": "Hapi",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 834,
+    "CharId": "Sothis",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 835,
+    "CharId": "Jeralt",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 836,
+    "CharId": "Gatekeeper",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 837,
+    "CharId": "Abysskeeper",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 838,
+    "CharId": "Monica",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 839,
+    "CharId": "Fleche",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 840,
+    "CharId": "Arundel",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 841,
+    "CharId": "Randolph",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 842,
+    "CharId": "Metodey",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 843,
+    "CharId": "Lonato",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 844,
+    "CharId": "Miklan",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 845,
+    "CharId": "Rodrigue",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 846,
+    "CharId": "Acheron",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 847,
+    "CharId": "Judith",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 848,
+    "CharId": "Nader",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 849,
+    "CharId": "Rhea",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 850,
+    "CharId": "Flame Emperor",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 851,
+    "CharId": "Kostas",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 852,
+    "CharId": "Death Knight",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 1
+  },
+  {
+    "id": 853,
+    "CharId": "Thales",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 854,
+    "CharId": "Solon",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 855,
+    "CharId": "Kronya",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 856,
+    "CharId": "Cornelia",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 857,
+    "CharId": "Seiros",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 858,
+    "CharId": "The Immaculate One",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 1
+  },
+  {
+    "id": 859,
+    "CharId": "Nemesis",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 860,
+    "CharId": "Lambert",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 861,
+    "CharId": "Sitri",
+    "GameId": 16,
+    "Game": "Three Houses",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 862,
+    "CharId": "Alear (M)",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 863,
+    "CharId": "Alear (F)",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 864,
+    "CharId": "Vander",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 865,
+    "CharId": "Clanne",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 866,
+    "CharId": "Framme",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 867,
+    "CharId": "Alfred",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 868,
+    "CharId": "Boucheron",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 869,
+    "CharId": "Louis",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 870,
+    "CharId": "Jean",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 871,
+    "CharId": "Céline",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 872,
+    "CharId": "Etie",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 873,
+    "CharId": "Chloé",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 874,
+    "CharId": "Diamant",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 875,
+    "CharId": "Alcryst",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 876,
+    "CharId": "Amber",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 877,
+    "CharId": "Jade",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 878,
+    "CharId": "Citrinne",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 879,
+    "CharId": "Lapis",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 880,
+    "CharId": "Yunaka",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 881,
+    "CharId": "Saphir",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 882,
+    "CharId": "Zelkov",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 883,
+    "CharId": "Kagetsu",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 884,
+    "CharId": "Rosado",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 885,
+    "CharId": "Lindon",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 886,
+    "CharId": "Ivy",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 887,
+    "CharId": "Hortensia",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 888,
+    "CharId": "Goldmary",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 889,
+    "CharId": "Anna",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 890,
+    "CharId": "Fogado",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 891,
+    "CharId": "Merrin",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 892,
+    "CharId": "Timerra",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 893,
+    "CharId": "Panette",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 894,
+    "CharId": "Bunet",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 895,
+    "CharId": "Pandreo",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 896,
+    "CharId": "Seadall",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 897,
+    "CharId": "Mauvier",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 898,
+    "CharId": "Nel",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 899,
+    "CharId": "Rafal",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 900,
+    "CharId": "Zelestia",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 901,
+    "CharId": "Gregory",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 902,
+    "CharId": "Madeline",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 903,
+    "CharId": "Sommie",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 1
+  },
+  {
+    "id": 904,
+    "CharId": "Lumera",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 905,
+    "CharId": "Ève",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 906,
+    "CharId": "Morion",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 907,
+    "CharId": "Seforia",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 908,
+    "CharId": "Hyacinth",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 909,
+    "CharId": "Zephia",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 910,
+    "CharId": "Griss",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  },
+  {
+    "id": 911,
+    "CharId": "Veyle",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 0,
+    "isFemale": 1
+  },
+  {
+    "id": 912,
+    "CharId": "Sombron",
+    "GameId": 17,
+    "Game": "Engage",
+    "isMale": 1,
+    "isFemale": 0
+  }
+]

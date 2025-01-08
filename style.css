@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+#characterName {
+    color: red;
+}
+
+#characterImage {
+    border: red 5px solid;
+    height: 128px;
+    width: 128px
+}
+
+#randomizerButton {
+    background-color: grey;
+}
