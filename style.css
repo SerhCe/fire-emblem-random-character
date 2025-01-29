@@ -1,19 +1,98 @@
 body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    background: linear-gradient(45deg, #fff1eb, #ace0f9);
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+    background-attachment: fixed; 
+    background-size: cover; 
+    min-height: 100vh; 
 }
 
-#characterName {
-    color: red;
+h1 {
+    font-size: 3.5rem; 
+    color: #ff6f61; 
+    text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.2); 
+    margin-bottom: 30px; 
+    letter-spacing: 3px; 
+    font-weight: bold; 
 }
 
-#characterImage {
-    border: red 5px solid;
-    height: 128px;
-    width: 128px
+h2.main-header {
+    font-size: 2.5rem; 
+    color: #ff6f61; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+    margin-bottom: 20px; 
+    letter-spacing: 2px; 
 }
 
-#randomizerButton {
-    background-color: grey;
+h2.filter-header {
+    font-size: 1.5rem; 
+    color: #555; 
+    margin-bottom: 10px; 
+    font-weight: normal; 
+    border-top: 2px solid #ff6f61;
+    padding-bottom: 5px; 
+}
+
+p {
+    font-size: 1.1rem; 
+    color: #555; 
+}
+
+.FilterBox {
+    background: rgba(255, 255, 255, 0.8); 
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+
+select, input[type="checkbox"] {
+    padding: 10px;
+    border: 2px solid #ff6f61;
+    border-radius: 10px;
+    background: rgba(255, 255, 255, 0.9); 
+    font-size: 1rem;
+    color: #333; 
+    transition: all 0.3s ease;
+}
+
+select:hover, input[type="checkbox"]:hover {
+    border-color: #ff9a9e; 
+    box-shadow: 0 0 8px rgba(255, 111, 97, 0.3); 
+}
+
+input[type="checkbox"] {
+    accent-color: #ff6f61; 
+}
+
+.fun-button {
+    background: linear-gradient(45deg, #ff9a9e, #fad0c4); 
+    border: none; 
+    color: white; 
+    padding: 15px 30px; 
+    font-size: 18px; 
+    font-weight: bold; 
+    border-radius: 25px; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    cursor: pointer; 
+    transition: all 0.3s ease; 
+    text-transform: uppercase; 
+}
+
+.fun-button:hover {
+    background: linear-gradient(45deg, #fad0c4, #ff9a9e); 
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3); 
+    transform: translateY(-2px); 
+}
+
+.fun-button:active {
+    transform: translateY(0);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
 }
 
 #FilterBox{
