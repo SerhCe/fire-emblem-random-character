@@ -9,14 +9,39 @@
     <title>Random Fire Emblem Character</title>
 </head>
 
-<body onload="randomCharacter()">
+<body>
 
     <h1>Fire Emblem Random Character</h1>
     <h2 id="characterName">Name</h2>
     <p id ="game">Game</p>
-    <br>
-    <button type="button" id="randomizerButton" onclick="randomCharacter()">Randomize!</div>
+    <button type="button" id="randomizerButton" onclick="randomCharacter()">Randomize!</button>
+    
+    <div id="FilterBox">
+        <h2>Filters</h2>
+        <label for="gameFilter">Game:</label>
+        <select id="gameFilter">
+            <option value="0" selected="selected">All games</option>
+            <option value="1">Shadow Dragon and the Blade of Light / Shadow Dragon</option>
+            <option value="2">Gaiden / Echoes: Shadows of Valentia</option>
+            <option value="3">Mystery of the Emblem / New Mystery of the Emblem</option>
+            <option value="4">Genealogy of the Holy War</option>
+            <option value="5">Thracia 776</option>
+            <option value="6">The Binding Blade</option>
+            <option value="7">The Blazing Blade</option>
+            <option value="8">The Sacred Stones</option>
+            <option value="9">Path of Radiance</option>
+            <option value="10">Radiant Dawn</option>
+            <option value="13">Awakening</option>
+            <option value="14">Fates</option>
+            <option value="16">Three Houses</option>
+            <option value="17">Engage</option>
+        </select>
+        <label for="MaleCharactersFilter">Male Characters</label>
+        <input type="checkbox" id="MaleCharactersFilter" checked> 
 
+        <label for="FemaleCharactersFilter">Female Characters</label>
+        <input type="checkbox" id="FemaleCharactersFilter" checked> 
+    </div>
 </body>
 
 </html>

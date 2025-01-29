@@ -15,3 +15,7 @@ body {
 #randomizerButton {
     background-color: grey;
 }
+
+#FilterBox{
+    margin-top: 3em;
+}
